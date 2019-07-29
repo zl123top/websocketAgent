@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/zl123top/websocketAgent#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "http-proxy": "^1.17.0",
+    "request": "^2.88.0",
+    "shadowsocks": "^1.5.3",
+    "simple-socks": "^1.0.2",
+    "socket.io": "^2.2.0",
+    "socks5-http-client": "^1.0.4",
+    "socks5-https-client": "^1.2.1",
+    "ws": "^7.1.1"
   }
 }
